@@ -1,0 +1,1 @@
+exports = require('./dist/qtw.js')

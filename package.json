@@ -1,0 +1,13 @@
+{
+  "name": "qtw",
+  "version": "0.1.1",
+  "description": "Qt + Tailwind",
+  "main": "dist/qtw.js",
+  "repository": "https://github.com/QuentinWidlocher/qtw",
+  "author": "Quentin Widlocher",
+  "license": "GPL-3.0-or-later",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"target": "ES6",
+		"module": "CommonJS",
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"declaration": true,
+		"strict": true,
+		"sourceMap": true,
+		"outDir": "dist",
+		"removeComments": true
+	},
+	"include": ["src/qtw.ts"],
+	"exclude": ["node_modules", "dist"]
+}
